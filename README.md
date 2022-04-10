@@ -1,5 +1,5 @@
 # Zachary Hammes's Portfolio
-This where I will have the description of the portfolio.
+Hi, I am Zack Hammes...
 
 
 LinkedIn: https://www.linkedin.com/in/zachary-hammes-55207a19a/
