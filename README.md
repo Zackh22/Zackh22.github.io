@@ -1,2 +1,2 @@
 # Zackh22.github.io
-the description of the project might go here.
+This where I will have the description of the portfolio.
