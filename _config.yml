@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+layout: page
+title: "HomePage"
+baseurl: "main"
+permalink: /URL-PATH/
