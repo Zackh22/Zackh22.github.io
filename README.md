@@ -7,3 +7,4 @@ Resume: [Zachary Hammes Classy-Schedule Resume.docx](https://github.com/Zackh22/
 LinkedIn: https://www.linkedin.com/in/zachary-hammes-55207a19a/
 
 Predicting Winning Seasons: https://github.com/Zackh22/Zackh22.github.io/tree/main/Predicting%20Winning%20Seasons
+[Predicting Winning Seasons:](https://github.com/Zackh22/Zackh22.github.io/tree/main/Predicting%20Winning%20Seasons)
