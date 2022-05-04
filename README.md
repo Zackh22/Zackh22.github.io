@@ -5,16 +5,14 @@ Hi, I am Zack Hammes. I am a senior at the University of St. Thomas. I will be g
 
 [Resume](https://github.com/Zackh22/Zackh22.github.io/files/8460228/Zachary.Hammes.Classy-Schedule.Resume.docx)
 
-LinkedIn: https://www.linkedin.com/in/zachary-hammes-55207a19a/
-
-
 [LinkedIn](https://www.linkedin.com/in/zachary-hammes-55207a19a/)
 
 ## Projects
 
 [Winning Seasons](/WinningSeasonFormula/)
 
+[Computer Graphics Shapes Curves](/cg-shapescurves/)
 
-[I win](https://zackh22.github.io/WinningSeasonFormula/)
+[Computer Graphics 3D Projections](/cg-3dprojections/)
 
 
