@@ -1,36 +1,3 @@
-/*
-
-3D Projections (to earn a C: 45 pts)
-
-Implement perspective projection for 3D models: 35 pts - DONE
-    Transform models into canonical view volume - DONE (Patrick 100%)
-        Implement the matrix functions in transforms.js - DONE (Patrick 100%)
-    Implement Cohen-Sutherland 3D line clipping - DONE (Patrick 90% and Zack 10%)
-    Project onto view plane - DONE (Patrick 100%)
-    Draw 2D lines - DONE (Patrick 60% and Zack 40%)
-Implement camera movement to change the view of a scene: 10 pts
-    A/D keys: translate the PRP and SRP along the u-axis - DONE (Patrick 100%)
-    W/S keys: translate the PRP and SRP along the n-axis - DONE (Patrick 100%)
-
-Additional features (to earn a B or A)
-
-Implement parallel projection for 3D models: 5 pts - DONE
-Follows same steps as perspective (Patrick and Zack)
-    Transform models into canonical view volume - DONE (Patrick 100%)
-    Implement Cohen-Sutherland 3D line clipping - DONE (Patrick 60% and Zack 40%)
-    Project onto view plane - DONE (Patrick 100%)
-    Draw 2D lines - DONE (Zack 100%)
-Generate vertices and edges for common models: 5 pts
-    Cube: defined by center point, width, height, and depth (1 pt) (Patrick 80% and Zack 20%) - DONE
-    Cone: defined by center point of base, radius, height, and number of sides (1 pt) (Patrick 10% and Zack 90%) - DONE
-    Cylinder: defined by center point, radius, height, and number of sides (1 pt) (Patrick 75% and Zack 25%) - DONE
-    Sphere: defined by center point, radius, number of slices, and number of stacks (2 pts) (Patrick 40% Zack 60%) - DONE
-Allow for models to have a rotation animation: 5 pts
-    Can be about the x, y, or z axis (Patrick 10% and Zack 90%) - DONE
-    Defined in terms of revolutions per second (Zack 100%) - DONE
-Left/right arrow keys: rotate SRP around the v-axis with the PRP as the origin: 5 pts (Patrick 85% and Zack 15%) - DONE
-
-*/
 
 // create a 4x4 matrix to the parallel projection / view matrix
 function mat4x4Parallel(prp, srp, vup, clip) {
